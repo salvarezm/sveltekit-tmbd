@@ -6,7 +6,9 @@
 
 <Navbar />
 
-<div class="container mx-auto w-11/12 py-2">
+<div class="container mx-auto w-full">
     <slot />
 </div>
+
+
 
